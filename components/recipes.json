@@ -1,0 +1,23 @@
+{ 
+    "recipes": [
+        {
+          "id": 477749,
+          "title": "Burger Club: Award-Winning Logan County Burger Patty Melt",
+          "imageURL": "https://spoonacular.com/recipeImages/716429-556x370.jpg",
+          "url": "http://www.barbarabakes.com/2010/05/burger-club-award-winning-logan-county/"
+        },
+        {
+          "id": 493632,
+          "title": "New York Burger Week: Pretzel Burger with Beer Cheese",
+          "imageURL": "https://spoonacular.com/recipeImages/716429-556x370.jpg",
+          "url": "http://www.foodrepublic.com/2013/09/23/new-york-burger-week-pretzel-burger-beer-cheese"
+        },
+        {
+          "id": 23359,
+          "title": "Beef Burger Recipe (elvis Burger With Salad & Gherkin)",
+          "imageURL": "https://spoonacular.com/recipeImages/716429-556x370.jpg",
+          "url": "http://www.jamieoliver.com/recipes/beef-recipes/elvis-burger-with-pickled-gherkin"
+        }
+    ]
+};
+

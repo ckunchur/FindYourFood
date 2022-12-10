@@ -1,0 +1,13 @@
+{ 
+  "ingredients":
+  [
+      {"name": "Bananas"},
+      {"name": "Milk"},
+      {"name": "Sugar"},
+      {"name": "Flour"},
+      {"name": "Vanilla"},
+      {"name": "Eggs"},
+      {"name": "Bread"}
+
+  ]
+};
